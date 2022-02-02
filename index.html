@@ -8,6 +8,7 @@
     <title>Central - Cadastro Cliente</title>
     <link href="assets/style/main.css" rel="stylesheet" type="text/css">
     <link href="assets/images/logo_ms.svg" rel="icon" type="image/svg">
+    <script href="script.js"></script>
 
 
 </head>
@@ -22,13 +23,48 @@
             </div>
             </div>
         </header>
+        
         <div id="flexfcontent">
         <div class="content">
-            <button class="button_mobile" id="customers_init"></button>
+            <button type="button" class="button_reg" id="customers_init"><img class="img_btn" src="assets/images/button_start.svg"></button>
+            <table id="table_client" class="records">
+                <thead>
+                    <tr>
+                        <th class="name">Nome</th>
+                        <th class="email">E-mail</th>
+                        <th class="tel">Celular</th>
+                        <th class="city">Cidade</th>
+                        <th class="edit">Edição</th>
+                    </tr>
+                </thead>
+                <tbody>
+    
+                </tbody>
+            </table>
+
+            <div class="modal" id="modal">
+                <div class="modal-content">
+                    <header class="modal_header">
+                        <h2>Novo cliente</h2>
+                        <span class="modal_close" id="modalClose">&#10006;</span>
+                    </header>
+                    <form class="modal_form" id="form">
+                        <input type="text" id="nome" data-index="new" class="modal_field" placeholder="Nome do Cliente"
+                        required>
+                       <input type="email" id="email" class="modal_field" placeholder="e-mail do Cliente" required>
+                       <input type="text" id="celular" class="modal_field" placeholder="(DDD) + Número" required>
+                       <input type="text" id="cidade" class="modal_field" placeholder="Cidade do Cliente" required>
+                    </form>
+                    <footer class="modal_footer">
+                        <button id="save" class="button_ws">Salvar</button>
+                        <button id="cancel" class="button_wc">Cancelar</button>
+                    </footer>
+                </div>
+            </div>
+
         </div>
         </div>
     </section>
-    <script href="script.js"></script>
     
 </body>
 </html>
