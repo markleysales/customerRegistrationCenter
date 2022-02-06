@@ -1,3 +1,4 @@
 # customerRegistrationCenter
  A registration system for companies and corporations with local storage.
-<h2>In progress.<h2>
+<h2>IN PROGRESS. PLEASE WAIT!<h2>
+<!-- IN TEST-->
