@@ -13,7 +13,8 @@
   <img width="49.6%" src="https://user-images.githubusercontent.com/95272518/152698332-65ad325c-b103-49a0-a0b8-e8850c4a679d.png">
   <img width="49.6%" src="https://user-images.githubusercontent.com/95272518/152697978-0b5ebc66-b17e-45dc-b364-4f5258fd54f6.png">
 </div>
-<br><br><br><br>
+<h4>URL to access: https://markleysales.github.io/customerRegistrationCenter</h4>
+<br><br><br>
  <h3>UX/UI DESIGN AND PAGE CONTENTS</h3>
  <hr>
 <div align="" float="left">
@@ -31,7 +32,7 @@
 <hr>
 <h4 align="center">Development and Design by Markley Sales</h4>
 <div align="center">
-  <img width="200px" src="https://user-images.githubusercontent.com/95272518/152700430-7c60b45b-548c-4e7e-8486-87b5c7921400.svg">
+  <img width="8%" src="https://user-images.githubusercontent.com/95272518/152700430-7c60b45b-548c-4e7e-8486-87b5c7921400.svg">
 </div>
  
 </body>
