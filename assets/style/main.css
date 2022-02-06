@@ -18,7 +18,7 @@ section{
     flex-direction: column;
     justify-content: flex-start;
     background-image: url(../images/bg_main.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-size: cover;
     background-position: center;
 }
@@ -241,95 +241,10 @@ button:hover{
     padding: 0 20px;
 }
 
-/*
-#flexfcontent{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+footer{
+    text-align: center;
+    padding-bottom: 22px;
+    font-weight: 300;
+    color: rgb(255,255,255,0.5);
+    font-size: 0.9rem;
 }
-
-.content{
-    position: relative;
-    top: 52px;
-    background: rgb(37,37,73);
-    width: 85%;
-    height: 70vh;
-    border-radius: 15px;
-}
-
-.content .button_reg{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: rgb(255,255,255,0.5);
-    margin-top: 25px;
-    margin-left: 35px;
-    margin-right: 35px;
-    margin-bottom: 12.5px;;
-    width: 100px;
-    height: 34px;
-    border: none;
-    border-radius: 20px;
-    transition: box-shadow .4s ease;
-}
-
-.content .button_reg:hover{
-    box-shadow: inset 100px 0 0 #ffff;
-}
-
-.content .button_reg .img_btn{
-    width: 22px;
-}
-
-table{
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.content .records th{
-    text-align: left;
-    font-size: 1.2rem;
-    font-weight: 400;
-    border: 2px solid #ffffff;
-    border-radius: 5px;
-
-}
-
-.name{
-    width: 300px;
-    height: 36px;
-    padding-left: 5px;
-}
-
-.email{
-    width: 300px;
-    height: 36px;
-    padding-left: 5px;
-}
-
-.tel{
-    width: 150px;
-    height: 36px;
-    padding-left: 5px;
-}
-
-.city{
-    width: 150px;
-    height: 36px;
-    padding-left: 5px;
-}
-
-.edit{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 184.5px;
-    height: 36px;
-}
-
-tbody{
-    width: 100%;
-}
-*/
