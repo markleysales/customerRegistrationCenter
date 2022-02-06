@@ -137,6 +137,7 @@ button:hover{
     border-radius: 5px;
     height: 36px;
     padding-left: 10px;
+    pointer-events:none
 }
 
 .records td{
