@@ -23,7 +23,7 @@
 <br><br><br><br>
 <h3>ABOUT</h3>
 <hr>
-<h4 align="center">Design and development by Markley Sales</h4>
+<h4 align="center">Development and Design by Markley Sales</h4>
 <div align="center">
   <img width="200px" src="https://user-images.githubusercontent.com/95272518/152700430-7c60b45b-548c-4e7e-8486-87b5c7921400.svg">
 </div>
