@@ -1,7 +1,13 @@
 # REGISTRATION CENTER
 <body>
 
-<h4 align="right">A registration system for companies and corporations with local storage. (desktop only version)</h4><br>
+<h4 align="right">A registration system for companies and corporations with local storage. (desktop only version)</h4>
+ <div>
+    <img width="70px" src="https://user-images.githubusercontent.com/95272518/152700586-7d25bf7c-5c9f-41cb-9e1a-2bed9fbc015d.svg">
+    <img width="70px" src="https://user-images.githubusercontent.com/95272518/152700596-bac33ed4-b350-4f66-bd56-3235630ff345.svg">
+    <img width="70px" src="https://user-images.githubusercontent.com/95272518/152700602-e184b770-b562-4a59-b82c-c19eaf2f2d45.svg">
+ </div>
+<br>
 <img width="100%" src="https://user-images.githubusercontent.com/95272518/152697795-a7e75401-d495-434d-92c7-e3e3fc1e48f3.gif">
 <div align="center" float="left">
   <img width="49.6%" src="https://user-images.githubusercontent.com/95272518/152698332-65ad325c-b103-49a0-a0b8-e8850c4a679d.png">
