@@ -30,22 +30,21 @@
 <br><br><br>
  <h3>UX/UI DESIGN AND PAGE CONTENTS</h3>
  <hr>
-<div align="" float="left">
-  <img width="70px" src="https://user-images.githubusercontent.com/95272518/152698755-f06e09c3-b962-4e8d-a62d-606af4a2788b.svg">
-  <img width="70px" src="https://user-images.githubusercontent.com/95272518/152698772-1d37a229-4ba8-4ab0-bf6a-7a37040ba7c5.svg">
-</div>
-<br>
 <div align="center">
   <img width="50%" src="https://user-images.githubusercontent.com/95272518/152699895-cf5c3ae0-b163-460c-9266-8b5b95d2e444.png">
   <img width="50%" src="https://user-images.githubusercontent.com/95272518/152699476-e4b2b6c8-0d2e-446d-aef0-cbf748ca5b82.jpg">
- <h4>Adobe XD for user interface and Illustrator for object vectorization.</h4>
+</div>
+<h4 align="center">Adobe XD for user interface and Illustrator for object vectorization.</h4>
+<div align="center" float="left">
+  <img width="8%" src="https://user-images.githubusercontent.com/95272518/152698755-f06e09c3-b962-4e8d-a62d-606af4a2788b.svg">
+  <img width="8%" src="https://user-images.githubusercontent.com/95272518/152698772-1d37a229-4ba8-4ab0-bf6a-7a37040ba7c5.svg">
 </div>
 <br><br><br><br>
 <h3>ABOUT</h3>
 <hr>
 <h4 align="center">Development and Design by Markley Sales</h4>
 <div align="center">
-  <img width="8%" src="https://user-images.githubusercontent.com/95272518/152700430-7c60b45b-548c-4e7e-8486-87b5c7921400.svg">
+  <img width="8%" src="https://user-images.githubusercontent.com/95272518/152735319-a3cbe101-e906-4b3f-8cf7-5a07e3b02206.svg">
 </div>
  
 </body>
