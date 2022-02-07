@@ -3,16 +3,29 @@
 
 <h4 align="right">A registration system for companies and corporations with local storage. (desktop only version)</h4>
  <div>
-    <img width="70px" src="https://user-images.githubusercontent.com/95272518/152700586-7d25bf7c-5c9f-41cb-9e1a-2bed9fbc015d.svg">
-    <img width="70px" src="https://user-images.githubusercontent.com/95272518/152700596-bac33ed4-b350-4f66-bd56-3235630ff345.svg">
-    <img width="70px" src="https://user-images.githubusercontent.com/95272518/152700602-e184b770-b562-4a59-b82c-c19eaf2f2d45.svg">
+    <img width="5%" src="https://user-images.githubusercontent.com/95272518/152700586-7d25bf7c-5c9f-41cb-9e1a-2bed9fbc015d.svg">
+    <img width="5%" src="https://user-images.githubusercontent.com/95272518/152700596-bac33ed4-b350-4f66-bd56-3235630ff345.svg">
+    <img width="5%" src="https://user-images.githubusercontent.com/95272518/152700602-e184b770-b562-4a59-b82c-c19eaf2f2d45.svg">
  </div>
 <br>
 <img width="100%" src="https://user-images.githubusercontent.com/95272518/152697795-a7e75401-d495-434d-92c7-e3e3fc1e48f3.gif">
 <div align="center" float="left">
-  <img width="49.6%" src="https://user-images.githubusercontent.com/95272518/152698332-65ad325c-b103-49a0-a0b8-e8850c4a679d.png">
-  <img width="49.6%" src="https://user-images.githubusercontent.com/95272518/152697978-0b5ebc66-b17e-45dc-b364-4f5258fd54f6.png">
+  <img width="49.7%" src="https://user-images.githubusercontent.com/95272518/152698332-65ad325c-b103-49a0-a0b8-e8850c4a679d.png">
+  <img width="49.7%" src="https://user-images.githubusercontent.com/95272518/152697978-0b5ebc66-b17e-45dc-b364-4f5258fd54f6.png">
 </div>
+<br> 
+<table>
+  <tr align="center">
+    <th>Effects</th>
+    <th>Responsiveness</th>
+    <th>Finished</th>
+  </tr>
+  <tr align="center">
+    <td>Yes</td>
+    <td>No (desktop only)</td>
+    <td>Yes</td>
+  </tr>
+</table>
 <h4>URL to access: https://markleysales.github.io/customerRegistrationCenter</h4>
 <br><br><br>
  <h3>UX/UI DESIGN AND PAGE CONTENTS</h3>
@@ -23,9 +36,9 @@
 </div>
 <br>
 <div align="center">
-  <img width="50%px" src="https://user-images.githubusercontent.com/95272518/152699895-cf5c3ae0-b163-460c-9266-8b5b95d2e444.png">
-  <img width="50%px" src="https://user-images.githubusercontent.com/95272518/152699476-e4b2b6c8-0d2e-446d-aef0-cbf748ca5b82.jpg">
- <h4>Adobe xD for user interface and Illustrator for object vectorization.</h4>
+  <img width="50%" src="https://user-images.githubusercontent.com/95272518/152699895-cf5c3ae0-b163-460c-9266-8b5b95d2e444.png">
+  <img width="50%" src="https://user-images.githubusercontent.com/95272518/152699476-e4b2b6c8-0d2e-446d-aef0-cbf748ca5b82.jpg">
+ <h4>Adobe XD for user interface and Illustrator for object vectorization.</h4>
 </div>
 <br><br><br><br>
 <h3>ABOUT</h3>
