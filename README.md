@@ -43,7 +43,7 @@
 <hr>
 <h4 align="center">Development and Design by Markley Sales</h4>
 <div align="center">
-  <img width="60px" src="https://user-images.githubusercontent.com/95272518/152735319-a3cbe101-e906-4b3f-8cf7-5a07e3b02206.svg">
+  <img width="34px" src="https://user-images.githubusercontent.com/95272518/152735319-a3cbe101-e906-4b3f-8cf7-5a07e3b02206.svg">
 </div>
 
 </body>
