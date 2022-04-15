@@ -25,7 +25,6 @@
     <td>Yes</td>
   </tr>
 </table>
-<h4>URL to access: https://markleysales.github.io/customerRegistrationCenter</h4>
 <br><br><br>
 <h3>UX/UI DESIGN AND PAGE CONTENTS</h3>
 <hr>
